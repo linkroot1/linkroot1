@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Alexey Pavlenko. I'm an java backend developer and I have more than 1,5 years of commercial experience.
+My name is Alexey Pavlenko. I'm an java backend developer and I have more than 2 years of commercial experience.
 
 My activities:
 
